@@ -1,4 +1,4 @@
-# MetaMask Performance Dashboard
+# MetaMask Performance Dashboard - A Blockchain Analytics Project
 
 The MetaMask Performance Dashboard is a web app that displays various performance metrics related to MetaMask, such as revenue, trading volume, trades, unique users, and quarter-over-quarter (QoQ) growth. The dashboard is powered by the Streamlit library, Plotly for visualization, and uses BigQuery to query the blockchain data from the bigquery-public-data:crypto_ethereum dataset.
 
@@ -11,6 +11,9 @@ The MetaMask Performance Dashboard is a web app that displays various performanc
 - [Dataset](#dataset)
 - [Installation](#installation)
 - [Usage](#usage)
+
+## What is Metamask?
+-MetaMask is a popular browser extension and mobile app that allows users to access decentralized applications (dApps) on the Ethereum blockchain. It serves as a cryptocurrency wallet, allowing users to securely store, send, and receive Ether and other ERC-20 tokens.
 
 ## Features
 
