@@ -2,7 +2,7 @@
 
 The MetaMask Performance Dashboard is a web app that displays various performance metrics related to MetaMask, such as revenue, trading volume, trades, unique users, and quarter-over-quarter (QoQ) growth. The dashboard is powered by the Streamlit library, Plotly for visualization, and uses BigQuery to query the blockchain data from the bigquery-public-data:crypto_ethereum dataset.
 
-![] (https://github.com/roswin420/Metamask-Performance-Dashboard/blob/main/demo.gif)
+![](https://github.com/roswin420/Metamask-Performance-Dashboard/blob/main/demo.gif)
 
 ## Table of Contents
 
